@@ -34,14 +34,14 @@
 
 ## <samp>~/ experience</samp>
 
-**Java Developer** · *ООО «Подземелье», Saratov* - Apr 2025 - Present
+**Java Developer** · *ООО «Подземелье», Saratov* - (Apr 2025 - Present)
 Sole backend engineer for [podzemelie-saratov.ru](https://podzemelie-saratov.ru), an anticafe & tabletop-club platform.
 - Designed and built the entire backend from scratch: **Spring Boot + PostgreSQL**, migrations with **Flyway**;
 - Implemented an online **booking engine** for rooms and tables with conflict-free time-slot validation;
 - Built **JWT authentication** and a role-based admin panel API for staff to manage events, tournaments and pricing;
 - Added **Redis** caching for the schedule and hot pages, cutting response times and DB load;
 
-**Java Developer (Internship)** · *ЦПС, Tver* - Nov 2025 – Feb 2026
+**Java Developer (Internship)** · *ЦПС, Tver* - (Nov 2025 - Feb 2026)
 Backend developer on an enterprise document-management (ECM) platform.
 - Developed and extended **REST API** modules for document workflows used by real clients;
 - Integrated asynchronous processing over **RabbitMQ**, moving heavy operations off the request path;
